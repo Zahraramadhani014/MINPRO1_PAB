@@ -194,6 +194,12 @@
 
    ><img width="1918" height="1140" alt="image" src="https://github.com/user-attachments/assets/c6737eec-c87f-4a08-927d-692784663090" />
 
+---
+
+## Catatan
+
+Untuk project ada di branch master 
+
 
    
 
